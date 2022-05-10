@@ -1,4 +1,4 @@
-module github.com/smartcontractkit/chainlink/integration-tests
+module github.com/smartcontractkit/chainlink/chainlink-testing-framework
 
 go 1.18
 
